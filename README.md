@@ -1,0 +1,3 @@
+# Hello-World
+# I want to learn the CODE...
+First public project of new one
